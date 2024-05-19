@@ -229,7 +229,7 @@ h2 {
 }
 
 .container .item .addCart .cart {
-  padding: 100%;
+  font-size: 24px;
 }
 
 #pagination {
