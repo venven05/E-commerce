@@ -36,7 +36,7 @@ const addDataToHTML = () => {
                 </div>
                 <div class="price">₱${product.price}</div>
             </div>
-            <div class="addCart"><i class="fa-solid fa-cart-plus"></i></div>
+            <div class="addCart"><i class="fa-solid fa-cart-plus cart"></i></div>
             `;
             listProductHTML.appendChild(newProduct);
         })
